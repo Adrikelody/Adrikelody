@@ -1,0 +1,46 @@
+{
+  "datos_personales": {
+    "nombre": "Adriana Lizbeth",
+    "apellidos": "Gaspar Vasquez",
+    "email": {
+      "empresa": "dieslyvasquez@gmail.com",
+      "personal": "adrianavasquezliz@gmail.com"
+    }
+  },
+  "experiencia_profesional": [
+    {
+      "empresa": "Crediscosita",
+      "puesto": "Administrativa",
+      "inicio": "2025-04",
+      "final": "2026-11"
+    },
+    {
+      "empresa": "Happyland",
+      "puesto": "Atención al cliente",
+      "inicio": "2023-02",
+      "final": "2023-08"
+    }
+  ],
+  "formacion": [
+    {
+      "centro": "CEAC",
+      "carrera": "ASIR",
+      "inicio": "09-2026",
+      "final": "EN CURSO"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Inglés",
+      "nivel": "Básico"
+    }
+  ],
+  "hobbies": [
+    "Programación",
+    "Viajar"
+  ]
+}
